@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/xAaronWx/xAaronWx/assets/Top.png"
+![](assets/Top.png)
 
 ## Hello, I'm AJ 👋
 
