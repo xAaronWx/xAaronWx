@@ -11,8 +11,8 @@
 
 ---
 
-### My Current Playlist 🎧
-
+### What I'm currently listening to 🎧
+[![Spotify](https://spotify-playlist.xaaronwx.vercel.app//api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 
 ### Connect with me:
@@ -23,7 +23,7 @@
 
 <br />
 
-### What I'm currently working on:
+<!-- ### What I'm currently working on: -->
 <!--START_SECTION:activity-->
 
 ---
