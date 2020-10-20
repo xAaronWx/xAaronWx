@@ -1,11 +1,11 @@
 ### Hello, I'm AJ 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 ## I'm a Husband, Father, Web Developer, and Student!!
 
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning everything I can find
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to spend time outside with my family and Jeep
 
@@ -22,6 +22,10 @@
 [<img align="left" alt="AaronW | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
+---
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xAaronWx&hide=issues&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### Languages and Tools:
 
