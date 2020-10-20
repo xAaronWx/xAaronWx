@@ -9,7 +9,7 @@
 ---
 
 ### What I'm currently listening to 🎧
-[![Spotify](https://spotify-playlist.xaaronwx.vercel.app//api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://spotify-playlist.xaaronwx.vercel.app//api/spotify)](https://open.spotify.com/user/beamerboy_23)
 
 
 ### Connect with me:
