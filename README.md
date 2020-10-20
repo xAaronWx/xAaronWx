@@ -25,7 +25,7 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xAaronWx&hide=issues&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://https://github-readme-stats.xaaronwx.vercel.app//api?username=xAaronWx&hide=issues&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### Languages and Tools:
 
