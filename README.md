@@ -26,8 +26,6 @@
 ### What I'm currently working on:
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 ---
 
 <img align="center" alt="xAaronWx's GitHub Stats" src="https://github-readme-stats.xaaronwx.vercel.app/api?username=xAaronWx&hide=issues&show_icons=true&theme=vue-dark&hide_border=true" />
