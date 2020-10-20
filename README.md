@@ -25,7 +25,7 @@
 
 ---
 
-[![Anurag's github stats](https://https://github-readme-stats.xaaronwx.vercel.app//api?username=xAaronWx&hide=issues&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" alt="xAaronWx's GitHub Stats" src="https://github-readme-stats.xaaronwx.vercel.app/api?username=xAaronWx&hide=issues&show_icons=true&theme=vue-dark&hide_border=true" />
 
 <!-- ### Languages and Tools:
 
@@ -44,13 +44,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.xaaronwx.vercel.app/api?username=xAaronWx&show_icons=true&hide_border=true" />
-
-</details>
 
 <!-- Link Definitions -->
 
