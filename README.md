@@ -1,8 +1,10 @@
 # Welcome, I'm Aj
 
 
-## I'm a Husband, Father of 3, Web Developer, and Student!!
+## I'm a Husband, Father of 3, Web Developer, and a child of the 80's
 
+ <img src="assets/FlySynth.gif">
+ ---
 - 🌱 I’m currently learning everything I can with the time I have
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
