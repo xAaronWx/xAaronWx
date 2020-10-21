@@ -8,9 +8,9 @@
 
 <br />
 
-- Refresh the page to see what I enjoy when not on a computer. 
+<!-- - Refresh the page to see what I enjoy when not on a computer. 
 
-<img src="https://source.unsplash.com/random/800x400?nature">
+<img src="https://source.unsplash.com/random/800x400?nature"> -->
 ---
 
 ### What I'm currently listening to 🎧
