@@ -1,11 +1,16 @@
-<img src="assets/Top.png" width=75%>
+# Welcome, I'm Aj
 
-### I'm a Husband, Father, Web Developer, and Student!!
 
-- 🌱 I’m currently learning everything I can find
+## I'm a Husband, Father of 3, Web Developer, and Student!!
+
+- 🌱 I’m currently learning everything I can with the time I have
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to spend time outside with my family and Jeep
 
+<br />
+
+- Refresh the page to see what I enjoy when not on a computer. 
+
+<img src="https://source.unsplash.com/random/800x400?nature">
 ---
 
 ### What I'm currently listening to 🎧
@@ -14,11 +19,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="AaronW | Carbonmade" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="center" alt="AaronW | Carbonmade" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/921/921490.svg" />][website]
 
-[<img align="left" alt="AaronW | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+[<img align="center" alt="AaronW | LinkedIn" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384171.svg" />][linkedin]
 
 <!-- ### What I'm currently working on: -->
 <!--START_SECTION:activity-->
@@ -40,7 +43,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist] -->
 
-<img src="assets/Bottom.png" width=75%>
+<img src="assets/Bottom.png">
 ---
 
 <!-- Link Definitions -->
