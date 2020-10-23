@@ -1,13 +1,14 @@
-## Hello, I'm Aj
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Aj</h1>
+
 [<img align="left" alt="AaronW | Carbonmade" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/921/921490.svg" />][website]
 
 [<img align="left" alt="AaronW | LinkedIn" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384171.svg" />][linkedin]
 
 ![](https://visitor-badge.glitch.me/badge?page_id=xaaronwx.xaaronwx)
 
-I'm a Husband, Father of 3, Web Developer, and a child of the 80's
+<p alighn="right">I'm a Husband, Father of 3, Web Developer, and a child of the 80's</p>
 
- <img alighn="right" src="assets/FlySynth.gif">
+ <img alighn="right" src="assets/FlySynth.gif" width=350>
  
  ### What About Me
 
