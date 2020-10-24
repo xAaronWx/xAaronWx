@@ -6,9 +6,6 @@
 [<img align="left" alt="AaronW | Carbonmade" width="25px"
   src="https://www.flaticon.com/svg/static/icons/svg/921/921490.svg" />][website]
 
-<!-- [<img align="left" alt="AaronW | LinkedIn" width="25px"
-  src="https://www.flaticon.com/svg/static/icons/svg/1384/1384171.svg" />][linkedin] -->
-
 [<img align="left" alt="AaronW | LinkedIn" width="25px"
   src="assets/linkedin.png" />][linkedin]
 
@@ -21,7 +18,7 @@
 
 <h2>
   <p align="left">I'm a Husband, Father of 3, Web Developer, and a child of the 80's.
-    When I'm not on a computer I can usually be found exploring in my Jeep or outside with my dogs.</p>
+    When I'm not on a computer I can usually be found exploring nature in my Jeep or being outside with my dogs.</p>
 </h2>
 
 <img align="right" src="assets/FlySynth.gif" width=250>
@@ -82,6 +79,7 @@
   <img align="center" alt="xAaronWx's GitHub Stats"
     src="https://github-readme-stats.xaaronwx.vercel.app/api?username=xAaronWx&hide=issues&show_icons=true&theme=vue-dark&hide_border=true" />
 </details>
+
 
 <!-- Link Definitions -->
 
