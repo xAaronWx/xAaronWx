@@ -13,7 +13,7 @@
  ### What About Me
 
 - 🌱 I’m currently learning ```everything``` I can with the time I have
-- 💬 Ask me about anything, I am happy to help
+- 💬 Ask me about anything, I am happy to try and help
 
 <br />
 
@@ -24,13 +24,21 @@
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img align="center" src="badges/css3.svg" alt="css3" style="vertical-align:top margin:6px 4px">
+
   <img align="center" src="badges/html.svg" alt="html" style="vertical-align:top margin:6px 4px">
+
   <img align="center" src="badges/bootstrap.svg" alt="bootstrap" style="vertical-align:top margin:6px 4px">
+
   <img align="center" src="badges/js.svg" alt="js" style="vertical-align:top margin:6px 4px">
+
   <img align="center" src="badges/sass.svg" alt="sass" style="vertical-align:top margin:6px 4px">
+
   <img align="center" src="badges/python.svg" alt="python" style="vertical-align:top margin:6px 4px">
+
   <img align="center" src="badges/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top margin:6px 4px">
+
   <img align="center" src="badges/react.svg" alt="react" style="vertical-align:top margin:6px 4px">
+  
   <img align="center" src="badges/visualstudio_code.svg" alt="visualStudioCode" style="vertical-align:top margin:6px 4px">
 
 </p>
