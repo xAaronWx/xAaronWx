@@ -6,26 +6,34 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=xaaronwx.xaaronwx)
 
-<p alighn="right">I'm a Husband, Father of 3, Web Developer, and a child of the 80's</p>
+<h3><p align="left">I'm a Husband, Father of 3, Web Developer, and a child of the 80's</p></h3>
 
- <img alighn="right" src="assets/FlySynth.gif" width=350>
+ <img align="right" src="assets/FlySynth.gif" width=350>
  
  ### What About Me
 
-- 🌱 I’m currently learning everything I can with the time I have
-- 💬 Ask me about anything, I am happy to help;
+- 🌱 I’m currently learning ```everything``` I can with the time I have
+- 💬 Ask me about anything, I am happy to help
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools That I'm Using:
+
 <br />
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img align="center" src="badges/css3.svg" alt="css3" style="vertical-align:top margin:6px 4px">
+  <img align="center" src="badges/html.svg" alt="html" style="vertical-align:top margin:6px 4px">
+  <img align="center" src="badges/bootstrap.svg" alt="bootstrap" style="vertical-align:top margin:6px 4px">
+  <img align="center" src="badges/js.svg" alt="js" style="vertical-align:top margin:6px 4px">
+  <img align="center" src="badges/sass.svg" alt="sass" style="vertical-align:top margin:6px 4px">
+  <img align="center" src="badges/python.svg" alt="python" style="vertical-align:top margin:6px 4px">
+  <img align="center" src="badges/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top margin:6px 4px">
+  <img align="center" src="badges/react.svg" alt="react" style="vertical-align:top margin:6px 4px">
+  <img align="center" src="badges/visualstudio_code.svg" alt="visualStudioCode" style="vertical-align:top margin:6px 4px">
+
+</p>
 
 <!-- - Refresh the page to see what I enjoy when not on a computer. 
 
