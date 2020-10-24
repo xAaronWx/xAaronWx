@@ -14,17 +14,16 @@
 <hr>
 
 <h2>
-  <p align="left">I'm a Husband, Father of 3, Web Developer, and a child of the 80's
-    When I'm not on a computer I can usually be found in my Jeep or out with my dogs.</p>
+  <p align="left">I'm a Husband, Father of 3, Web Developer, and a child of the 80's.
+    When I'm not on a computer I can usually be found exploring in my Jeep or outside with my dogs.</p>
 </h2>
-
 
 <img align="right" src="assets/FlySynth.gif" width=250>
 
 ### What About Me
 
-- 🌱 I’m currently learning ```everything``` I can with the time I have
-- 💬 Ask me about anything, I am happy to try and help
+- I’m currently learning ```everything``` I can with the time I have
+- Ask me about anything, I am happy to try and help
 - And never forget...
 <img align="center" src="assets/Bill_Ted.gif" width=300>
 
