@@ -8,7 +8,7 @@
 
 [<img align="left" alt="AaronW | LinkedIn" width="25px"
   src="https://www.flaticon.com/svg/static/icons/svg/1384/1384171.svg" />][linkedin]
-
+  
 ![](https://visitor-badge.glitch.me/badge?page_id=xaaronwx.xaaronwx)
 
 <hr>
