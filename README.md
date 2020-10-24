@@ -6,9 +6,15 @@
 [<img align="left" alt="AaronW | Carbonmade" width="25px"
   src="https://www.flaticon.com/svg/static/icons/svg/921/921490.svg" />][website]
 
+<!-- [<img align="left" alt="AaronW | LinkedIn" width="25px"
+  src="https://www.flaticon.com/svg/static/icons/svg/1384/1384171.svg" />][linkedin] -->
+
 [<img align="left" alt="AaronW | LinkedIn" width="25px"
-  src="https://www.flaticon.com/svg/static/icons/svg/1384/1384171.svg" />][linkedin]
-  
+  src="assets/linkedin.png" />][linkedin]
+
+[<img align="left" alt="AaronW | Spotify" width="25px"
+  src="assets/spotify.png" />][spotify]
+
 ![](https://visitor-badge.glitch.me/badge?page_id=xaaronwx.xaaronwx)
 
 <hr>
@@ -81,3 +87,4 @@
 
 [website]: https://aaronjwhite.carbonmade.com/
 [linkedin]: https://www.linkedin.com/in/aaronj-white/
+[spotify]: https://open.spotify.com/user/beamerboy_23
