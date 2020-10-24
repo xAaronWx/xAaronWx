@@ -26,44 +26,43 @@
 - 🌱 I’m currently learning ```everything``` I can with the time I have
 - 💬 Ask me about anything, I am happy to try and help
 - And never forget...
-<img align="left" src="assets/Bill_Ted.gif" width=400>
+<img align="left" src="assets/Bill_Ted.gif" width=300>
 
-<hr>
-<h3 align="left"> Languages and Tools That I'm Using:</h3>
+  <hr>
+  <h3 align="left"> Languages and Tools That I'm Using:</h3>
 
-<br />
+  <br />
 
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <a href="#">
-    <img src="badges/css3.svg" alt="css3" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="badges/html.svg" alt="html" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="badges/bootstrap.svg" alt="bootstrap" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="badges/js.svg" alt="js" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="badges/sass.svg" alt="sass" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="badges/python.svg" alt="python" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="badges/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="badges/react.svg" alt="react" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="badges/visualstudio_code.svg" alt="visualstudiocode" style="vertical-align:top margin:6px 4px">
-  </a>
-</p>
-
+  <p align="center">
+    <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+    <a href="#">
+      <img src="badges/css3.svg" alt="css3" style="vertical-align:top margin:6px 4px">
+    </a>
+    <a href="#">
+      <img src="badges/html.svg" alt="html" style="vertical-align:top margin:6px 4px">
+    </a>
+    <a href="#">
+      <img src="badges/bootstrap.svg" alt="bootstrap" style="vertical-align:top margin:6px 4px">
+    </a>
+    <a href="#">
+      <img src="badges/js.svg" alt="js" style="vertical-align:top margin:6px 4px">
+    </a>
+    <a href="#">
+      <img src="badges/sass.svg" alt="sass" style="vertical-align:top margin:6px 4px">
+    </a>
+    <a href="#">
+      <img src="badges/python.svg" alt="python" style="vertical-align:top margin:6px 4px">
+    </a>
+    <a href="#">
+      <img src="badges/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top margin:6px 4px">
+    </a>
+    <a href="#">
+      <img src="badges/react.svg" alt="react" style="vertical-align:top margin:6px 4px">
+    </a>
+    <a href="#">
+      <img src="badges/visualstudio_code.svg" alt="visualstudiocode" style="vertical-align:top margin:6px 4px">
+    </a>
+  </p>
 ---
 
 ### What I'm currently listening to 🎧
