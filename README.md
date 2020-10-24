@@ -19,18 +19,17 @@
 </h2>
 
 
-<img align="right" src="assets/FlySynth.gif" width=350>
+<img align="right" src="assets/FlySynth.gif" width=250>
 
 ### What About Me
 
 - 🌱 I’m currently learning ```everything``` I can with the time I have
 - 💬 Ask me about anything, I am happy to try and help
 - And never forget...
-<br />
-<img align="left" src="assets/Bill_Ted.gif" width="350">
+<img align="left" src="assets/Bill_Ted.gif" width=400>
 
-
-### Languages and Tools That I'm Using:
+<hr>
+<h3 align="left"> Languages and Tools That I'm Using:</h3>
 
 <br />
 
