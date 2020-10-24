@@ -26,9 +26,10 @@
 - 🌱 I’m currently learning ```everything``` I can with the time I have
 - 💬 Ask me about anything, I am happy to try and help
 - And never forget...
-<img align="left" src="assets/Bill_Ted.gif" width=300>
+<img align="center" src="assets/Bill_Ted.gif" width=300>
 
-  <hr>
+---
+
   <h3 align="left"> Languages and Tools That I'm Using:</h3>
 
   <br />
@@ -63,6 +64,7 @@
       <img src="badges/visualstudio_code.svg" alt="visualstudiocode" style="vertical-align:top margin:6px 4px">
     </a>
   </p>
+
 ---
 
 ### What I'm currently listening to 🎧
