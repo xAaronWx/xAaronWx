@@ -25,7 +25,7 @@
 
 ### What About Me
 
-- I'm working my way through Eleven Fifty Academy 
+- I'm a proud graduate of Eleven Fifty Academy 
 <a href="https://elevenfifty.org/courses/" target="blank"><img src="assets/EF.png" width="40px" height="55px"></a>
 - I’m currently learning ```everything``` that I can with the time I have
 - Ask me about anything, I am happy to try and help
