@@ -1,10 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
-  Hello, I'm Aj</h1>
+  Hello, I'm AJ</h1>
 
 ### Find Me Here:
-
-[<img align="left" alt="AaronW | Carbonmade" width="25px"
-  src="https://www.flaticon.com/svg/static/icons/svg/921/921490.svg" />][website]
 
 [<img align="left" alt="AaronW | LinkedIn" width="25px"
   src="assets/linkedin.png" />][linkedin]
@@ -25,12 +22,12 @@
 
 ### What About Me
 
-- I'm a proud graduate of Eleven Fifty Academy 
-<a href="https://elevenfifty.org/courses/" target="blank"><img src="assets/EF.png" width="40px" height="55px"></a>
-- I’m currently learning ```everything``` that I can with the time I have
+- I'm a proud graduate of Eleven Fifty Academy
+  <a href="https://elevenfifty.org/courses/" target="blank"><img src="assets/EF.png" width="40px" height="55px"></a>
+- I’m currently learning `everything` that I can with the time I have
 - Ask me about anything, I am happy to try and help
 - And never forget...
-<img align="center" src="assets/Bill_Ted.gif" width=300>
+  <img align="center" src="assets/Bill_Ted.gif" width=300>
 
 ---
 
@@ -72,6 +69,7 @@
 ---
 
 ### What I'm currently listening to 🎧
+
 [![Spotify](https://spotify-playlist.xaaronwx.vercel.app//api/spotify)](https://open.spotify.com/user/beamerboy_23)
 
 ---
@@ -79,12 +77,12 @@
 <details>
   <summary>📈 My GitHub Stats</summary>
   <img align="center" alt="xAaronWx's GitHub Stats"
-    src="https://github-readme-stats.xaaronwx.vercel.app/api?username=xAaronWx&hide=issues&show_icons=true&theme=vue-dark&hide_border=true" />
-</details>
-
+    src= "https://github-readme-stats.vercel.app/api?username=xAaronWx&hide=issues&show_icons=true&theme=vue-dark&hide_border=true"/>
+  </details>
 
 <!-- Link Definitions -->
 
-[website]: https://aaronjwhite.carbonmade.com/
+<!-- [website]: https://aaronjwhite.carbonmade.com/ -->
+
 [linkedin]: https://www.linkedin.com/in/aaronj-white/
 [spotify]: https://open.spotify.com/user/beamerboy_23
